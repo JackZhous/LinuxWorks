@@ -807,3 +807,14 @@ lvcreate -L # -n 卷名 -s -p r lv
 		+ 第一默认的作业
 		- 第二默认的作业
 	vmstat 显示
+
+## 启动服务的级别不同
+	运行级别： 0~6
+	0 halt
+	1 single user mode,直接管理员登录，不需要密码
+	2 multi user mode 多用户模式，no NTFS，宕机的时候可以以此登录进行修复
+	3 mult user mode, text mode  正常多用户模式
+	4 reserved 保留
+	/etc/inittab下面配置
+	5 multi user mode, graphic mode  图形界面模式
+	6 reboot
