@@ -818,3 +818,29 @@ lvcreate -L # -n 卷名 -s -p r lv
 	/etc/inittab下面配置
 	5 multi user mode, graphic mode  图形界面模式
 	6 reboot
+
+__查看运行级别__
+	runlevel 
+	who -r
+
+__查看内核版本号__
+	uname -r
+
+## Linux启动流程
+
+	POST --> BIOS(boot sequence) --> MBR(bootloader, 446) --> Kernel --> initrd --> (ROOTFS)/sbin/init(/etc/inittab)
+
+### 详细启动流程
+	bootloader(MBR)
+		LILO: LInux LOder
+		GRUB: GRand Unfied Bootloader
+			stage1: MBR
+			stage1_$:
+			stage2: /boot/grub
+
+### 修复grub
+	grub 进入grub命令行
+
+### 进入单用户模式
+	grub方法，在启动选择界面进入编辑模式后，在Linux内核指令处最后加1即可
+	grub2则需要在后面加入 init=/bin/bash
