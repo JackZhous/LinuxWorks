@@ -31,17 +31,12 @@ drawablePath=`ls -1 $projPath/res | grep ^d`
 #	done
 #done
 
-layoutFiles=`ls -1 $layoutPath | grep $.xml`
-echo $layoutFiles
-
-#ls -l `$projPath`
-
-#查找所有的资源文件
-#drawfile=`ls -1 $drawPath | sed s/.png//g | sed s/.9//g`
-#for f in $drawfile
-#do
-#	resultCode=`grep -r "drawable.$f\>" $codePath`
-#	resultLayout=`grep -r "drawable.$f\>" $layoutPath`
+layoutFiles=`ls -1 $layoutPath | grep xml$`
+#检索layout资源在layout下面和java代码里面是否使用
+for layout in $layoutFiles
+do
+	resultCode=`grep -rw "layout.$layout" $codePath`
+	resultLayout=`grep -rw "layout.$layout" $layoutPath`
 #	if [ "$resultCode" -o "$resultLayout" ]; then
 #		echo "$f.png is used in $resultCode and $resultLayout" >> log.txt
 #	else
