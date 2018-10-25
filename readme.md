@@ -838,9 +838,18 @@ __查看内核版本号__
 			stage1_$:
 			stage2: /boot/grub
 
-### 修复grub
+#### 修复grub
 	grub 进入grub命令行
 
-### 进入单用户模式
+#### 进入单用户模式
 	grub方法，在启动选择界面进入编辑模式后，在Linux内核指令处最后加1即可
 	grub2则需要在后面加入 init=/bin/bash
+
+### Kernel初始化
+1. 设备探测
+2. 驱动初始化（从initrd或initramfs文件中装载驱动模块）
+3. 以只读方式挂着根文件系统
+4. 装载第一个进程init(pid:1)
+	/sbin/init /etc/inittab
+	upstart(ubuntu) 并行启动
+	systemd
