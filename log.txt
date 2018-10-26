@@ -1,0 +1,733 @@
+drawable/bg_gray_round --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:            android:background="@drawable/bg_gray_round"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_order_pay.xml:              android:background="@drawable/bg_gray_round"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_trade_out_detail.xml:                              android:background="@drawable/bg_gray_round"
+--- 
+drawable/bg_gray_round1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_item_month_card.xml:              android:background="@drawable/bg_gray_round1"
+--- 
+drawable/bg_green_half_round_rect --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_modify_phone.xml:        android:background="@drawable/bg_green_half_round_rect"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_verify_user_info.xml:              android:background="@drawable/bg_green_half_round_rect"
+--- 
+drawable/bg_green_round --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_trade_out_detail.xml:                              android:background="@drawable/bg_green_round"
+--- 
+drawable/bg_green_solid --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/header_recharger.xml:              android:background="@drawable/bg_green_solid"
+--- 
+drawable/bg_green_top_round --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:        android:background="@drawable/bg_green_top_round"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:background="@drawable/bg_green_top_round"
+--- 
+drawable/bg_stroke_gree --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                  android:background="@drawable/bg_stroke_gree"
+--- 
+drawable/bg_whilte1_round --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activtiy_order_explain.xml:              android:background="@drawable/bg_whilte1_round"
+--- 
+drawable/bg_white_half_round_rect is no used
+drawable/bg_white_round --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:              android:background="@drawable/bg_white_round"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:    android:background="@drawable/bg_white_round"
+--- 
+drawable/btn_charge --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:background="@drawable/btn_charge" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:background="@drawable/btn_charge" />
+--- 
+drawable/btn_tel --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:background="@drawable/btn_tel" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:background="@drawable/btn_tel" />
+--- 
+drawable/charge_time_selector is no used
+drawable/del_sel_txt_color --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/edit_toolbar.xml:        android:textColor="@drawable/del_sel_txt_color"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/edit_toolbar.xml:        android:textColor="@drawable/del_sel_txt_color"
+--- 
+drawable/dialog_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:        android:background="@drawable/dialog_bg"
+--- 
+drawable/dialog_button_normal is no used
+drawable/dialog_button_pressed is no used
+drawable/dialog_button_selector --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:                android:background="@drawable/dialog_button_selector"
+--- 
+drawable/dialog_top_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:            android:background="@drawable/dialog_top_bg"
+--- 
+drawable/dot_line --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment.xml:            android:background="@drawable/dot_line"/>
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge_cost.xml:            android:background="@drawable/dot_line"/>
+--- 
+drawable/gray_shape --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerMCActivity.java:        int drawId = isCanPay ? R.drawable.shape_common_circle_corner : R.drawable.gray_shape;
+drawable/grey_round_rect_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:        android:background="@drawable/grey_round_rect_bg"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:background="@drawable/grey_round_rect_bg"
+--- 
+drawable/home_page_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:    android:background="@drawable/home_page_bg"
+--- 
+drawable/ic_del_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/toolbar2.xml:        android:background="@drawable/ic_del_bg"
+--- 
+drawable/msg_list_item_subheader --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/msg_item_layout.xml:        android:textColor="@drawable/msg_list_item_subheader"
+--- 
+drawable/my_checkbox_bg is no used
+drawable/recycle_bg_recahrge_clcked --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/PurchaseMonthCardAdapter.java:            cachView.setBackground(context.getResources().getDrawable(R.drawable.recycle_bg_recahrge_clcked));
+drawable/recycle_bg_recharger_unclick --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_purchase.xml:              android:background="@drawable/recycle_bg_recharger_unclick"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/PurchaseMonthCardAdapter.java:                cachView.setBackground(context.getResources().getDrawable(R.drawable.recycle_bg_recharger_unclick));
+drawable/red_circle_dot --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:        android:background="@drawable/red_circle_dot"
+--- 
+drawable/shape_adaptor_id_circle_corner --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/view_plug_info.xml:        android:background="@drawable/shape_adaptor_id_circle_corner"
+--- 
+drawable/shape_adaptor_serial_number_bottom --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_recycler_footer.xml:                android:background="@drawable/shape_adaptor_serial_number_bottom"
+--- 
+drawable/shape_adaptor_serial_number_top --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_recycler_footer.xml:                android:background="@drawable/shape_adaptor_serial_number_top"
+--- 
+drawable/shape_common_circle_corner --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_first_step.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_monthly.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:                android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:            android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_register.xml:                android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_register.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activtiy_order_explain.xml:              android:background="@drawable/shape_common_circle_corner"/>
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_order_pay.xml:              android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_modify_phone.xml:                android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/manual_selected_time_dialog.xml:            android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/manual_selected_time_dialog.xml:            android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_captcha.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_info.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:              android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_second_step.xml:        android:background="@drawable/shape_common_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/window_confirm_pay.xml:        android:background="@drawable/shape_common_circle_corner"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerMCActivity.java:        int drawId = isCanPay ? R.drawable.shape_common_circle_corner : R.drawable.gray_shape;
+drawable/shape_common_circle_solid --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/shape_common_circle_solid"
+--- 
+drawable/shape_common_circle_solid_gray --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_verify_user_info.xml:                android:background="@drawable/shape_common_circle_solid_gray"
+--- 
+drawable/shape_input_serial_number_circle_corner --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/shape_input_serial_number_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/shape_input_serial_number_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/shape_input_serial_number_circle_corner"
+--- 
+drawable/shape_recharge_chooser_normal --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeAmountRadioButton.java:        setBackgroundResource(R.drawable.shape_recharge_chooser_normal);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeAmountRadioButton.java:            setBackgroundResource(R.drawable.shape_recharge_chooser_normal);
+drawable/shape_recharge_chooser_selected --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeAmountRadioButton.java:            setBackgroundResource(R.drawable.shape_recharge_chooser_selected);
+drawable/shape_recharge_type_normal --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:        setBackgroundResource(R.drawable.shape_recharge_type_normal);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:            setBackgroundResource(R.drawable.shape_recharge_type_normal);
+drawable/shape_recharge_type_selected --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:            setBackgroundResource(R.drawable.shape_recharge_type_selected);
+drawable/shape_send_captcha_circle_corner --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_first_step.xml:            android:background="@drawable/shape_send_captcha_circle_corner"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_captcha.xml:            android:background="@drawable/shape_send_captcha_circle_corner"
+--- 
+drawable/text_cursor_color_accent --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_first_step.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_first_step.xml:            android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_captcha.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_captcha.xml:            android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_info.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_info.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_regist_info.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_second_step.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_second_step.xml:        android:textCursorDrawable="@drawable/text_cursor_color_accent"
+--- 
+drawable/white_round_rect_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_charge_status.xml:        android:background="@drawable/white_round_rect_bg"
+--- 
+drawable/white_round_rect_bg2 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:            android:background="@drawable/white_round_rect_bg2"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:            android:background="@drawable/white_round_rect_bg2"
+--- 
+drawable-hdpi/ic_action_reload --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:        mBuilder.addAction(R.drawable.ic_action_reload,
+drawable-hdpi/ic_close --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:                .addAction(R.drawable.ic_close, getString(R.string.cancel_download), piCancel);
+drawable-mdpi/ic_action_reload --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:        mBuilder.addAction(R.drawable.ic_action_reload,
+drawable-mdpi/ic_close --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:                .addAction(R.drawable.ic_close, getString(R.string.cancel_download), piCancel);
+drawable-v21/home_page_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:    android:background="@drawable/home_page_bg"
+--- 
+drawable-xhdpi/agreement --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/agreement"
+--- 
+drawable-xhdpi/alipay --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                      android:drawableLeft="@drawable/alipay"
+--- 
+drawable-xhdpi/bg_charge_number --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                .fromResource(R.drawable.bg_charge_number);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                R.drawable.bg_charge_number);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                        R.drawable.bg_charge_number);
+drawable-xhdpi/bottom --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:        android:background="@drawable/bottom"
+--- 
+drawable-xhdpi/charge_3 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge_cost.xml:            android:drawableTop="@drawable/charge_3"
+--- 
+drawable-xhdpi/charge_fee --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/charge_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge_cost.xml:            android:drawableTop="@drawable/charge_fee"
+--- 
+drawable-xhdpi/charge_history --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycler_charge_history.xml:              android:drawableLeft="@drawable/charge_history"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_charging_history.xml:              android:drawableLeft="@drawable/charge_history"
+--- 
+drawable-xhdpi/charge_map --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/charge_map"/>
+--- 
+drawable-xhdpi/check_pay_waiting --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:                        mIvResult.setImageResource(R.drawable.check_pay_waiting);
+drawable-xhdpi/checked --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                       android:src="@drawable/checked"/>
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                zfb_select.setImageResource(R.drawable.checked);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                wx_select.setImageResource(R.drawable.checked);
+drawable-xhdpi/ic_action_reload --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:        mBuilder.addAction(R.drawable.ic_action_reload,
+drawable-xhdpi/ic_charge_disable --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charge_disable"
+--- 
+drawable-xhdpi/ic_charge_number --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charge_number"
+--- 
+drawable-xhdpi/ic_charging_station --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charging_station"
+--- 
+drawable-xhdpi/ic_close --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:                .addAction(R.drawable.ic_close, getString(R.string.cancel_download), piCancel);
+drawable-xhdpi/ic_coin is no used
+drawable-xhdpi/ic_exit --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_navi_map.xml:        android:src="@drawable/ic_exit"
+--- 
+drawable-xhdpi/ic_help --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableTop="@drawable/ic_help"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_help" />
+--- 
+drawable-xhdpi/ic_my_location --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_navi_map.xml:        android:src="@drawable/ic_my_location"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_my_location" />
+--- 
+drawable-xhdpi/ic_navi --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableLeft="@drawable/ic_navi"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableStart="@drawable/ic_navi"
+--- 
+drawable-xhdpi/ic_navi_btn --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:        android:background="@drawable/ic_navi_btn" />
+--- 
+drawable-xhdpi/ic_phone --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/ic_phone"
+--- 
+drawable-xhdpi/ic_zhifubao_nor is no used
+drawable-xhdpi/ic_zhifubao_sel is no used
+drawable-xhdpi/leave_time --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/leave_time"/>
+--- 
+drawable-xhdpi/little_dot --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:              android:drawableLeft="@drawable/little_dot"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:              android:drawableLeft="@drawable/little_dot"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_pre_recharg.xml:              android:drawableLeft="@drawable/little_dot"
+--- 
+drawable-xhdpi/map_end --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/baiduoverlay/BikingRouteOverlay.java:        return BitmapDescriptorFactory.fromResource(R.drawable.map_end);
+drawable-xhdpi/map_start --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/baiduoverlay/BikingRouteOverlay.java:        return BitmapDescriptorFactory.fromResource(R.drawable.map_start);
+drawable-xhdpi/max_time --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/max_time"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableStart="@drawable/max_time"/>
+--- 
+drawable-xhdpi/month_card_using --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MyAccountActivity.java:            month_card_iv.setImageDrawable(getResources().getDrawable(R.drawable.month_card_using));
+drawable-xhdpi/month_style --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/month_style"/>
+--- 
+drawable-xhdpi/monthly --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/pop_menu_filter.xml:              android:drawableRight="@drawable/monthly"
+--- 
+drawable-xhdpi/no_photo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                android:src="@drawable/no_photo" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:src="@drawable/no_photo" />
+--- 
+drawable-xhdpi/password is no used
+drawable-xhdpi/purchase_month --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/purchase_month"/>
+--- 
+drawable-xhdpi/unchecked --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                       android:src="@drawable/unchecked"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                wx_select.setImageResource(R.drawable.unchecked);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                zfb_select.setImageResource(R.drawable.unchecked);
+drawable-xhdpi/username --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:                android:src="@drawable/username" />
+--- 
+drawable-xhdpi/wechatpay --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                      android:drawableLeft="@drawable/wechatpay"
+--- 
+drawable-xxhdpi/about --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/about"
+--- 
+drawable-xxhdpi/about_logo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_about.xml:        android:src="@drawable/about_logo"
+--- 
+drawable-xxhdpi/adaptor_available --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/StationPlugAdapter.java:                    mTvImage.setBackgroundResource(R.drawable.adaptor_available);
+drawable-xxhdpi/adaptor_disabled --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/StationPlugAdapter.java:                    mTvImage.setBackgroundResource(R.drawable.adaptor_disabled);
+drawable-xxhdpi/adaptor_unavailable --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/StationPlugAdapter.java:                    mTvImage.setBackgroundResource(R.drawable.adaptor_unavailable);
+drawable-xxhdpi/agreement --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/agreement"
+--- 
+drawable-xxhdpi/alipay --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                      android:drawableLeft="@drawable/alipay"
+--- 
+drawable-xxhdpi/back --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/toolbar.xml:        android:src="@drawable/back" />
+--- 
+drawable-xxhdpi/bg_charge_number --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                .fromResource(R.drawable.bg_charge_number);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                R.drawable.bg_charge_number);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                        R.drawable.bg_charge_number);
+drawable-xxhdpi/bottom --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:        android:background="@drawable/bottom"
+--- 
+drawable-xxhdpi/capture1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/capture1"
+--- 
+drawable-xxhdpi/charge_3 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge_cost.xml:            android:drawableTop="@drawable/charge_3"
+--- 
+drawable-xxhdpi/charge_fee --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/charge_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge_cost.xml:            android:drawableTop="@drawable/charge_fee"
+--- 
+drawable-xxhdpi/charge_history --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycler_charge_history.xml:              android:drawableLeft="@drawable/charge_history"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_charging_history.xml:              android:drawableLeft="@drawable/charge_history"
+--- 
+drawable-xxhdpi/charge_map --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/charge_map"/>
+--- 
+drawable-xxhdpi/charge_method1_step1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/charge_method1_step1"/>
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method1_step1"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment.xml:            android:drawableTop="@drawable/charge_method1_step1"
+--- 
+drawable-xxhdpi/charge_method1_step2 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method1_step2"
+--- 
+drawable-xxhdpi/charge_method1_step3 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method1_step3"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method1_step3"
+--- 
+drawable-xxhdpi/charge_method2_step1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method2_step1"
+--- 
+drawable-xxhdpi/charge_method2_step2 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_charge.xml:            android:drawableTop="@drawable/charge_method2_step2"
+--- 
+drawable-xxhdpi/check_pay_waiting --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:                        mIvResult.setImageResource(R.drawable.check_pay_waiting);
+drawable-xxhdpi/checked --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                       android:src="@drawable/checked"/>
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                zfb_select.setImageResource(R.drawable.checked);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                wx_select.setImageResource(R.drawable.checked);
+drawable-xxhdpi/china_mobile_logo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_start_up.xml:        android:src="@drawable/china_mobile_logo"
+--- 
+drawable-xxhdpi/cost_1 is no used
+drawable-xxhdpi/cost_2 is no used
+drawable-xxhdpi/cost_3 is no used
+drawable-xxhdpi/default_failed_site_image --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PlugActivity.java:                .error(R.drawable.default_failed_site_image)
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeStationListAdapter.java:                    .error(R.drawable.default_failed_site_image)
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/StationPopupWindow.java:                .error(R.drawable.default_failed_site_image)
+drawable-xxhdpi/default_loading_site_image --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PlugActivity.java:                .placeholder(R.drawable.default_loading_site_image)
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeStationListAdapter.java:                    .placeholder(R.drawable.default_loading_site_image)
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/StationPopupWindow.java:                .placeholder(R.drawable.default_loading_site_image)
+drawable-xxhdpi/default_user_icon --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/default_user_icon" />
+--- 
+drawable-xxhdpi/edit_info --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/edit_info" />
+--- 
+drawable-xxhdpi/fee_chooser_normal --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeModeRadioButton.java:            mTvImage.setBackgroundResource(R.drawable.fee_chooser_normal);
+drawable-xxhdpi/fee_chooser_selected --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeModeRadioButton.java:            mTvImage.setBackgroundResource(R.drawable.fee_chooser_selected);
+drawable-xxhdpi/find_step1 is no used
+drawable-xxhdpi/find_step2 is no used
+drawable-xxhdpi/find_step3 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_how2_find_station.xml:            android:src="@drawable/find_step3"/>
+--- 
+drawable-xxhdpi/help --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/help"
+--- 
+drawable-xxhdpi/ic_action_reload --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:        mBuilder.addAction(R.drawable.ic_action_reload,
+drawable-xxhdpi/ic_auth_code --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:                android:src="@drawable/ic_auth_code" />
+--- 
+drawable-xxhdpi/ic_back --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/msg_item_layout.xml:        android:src="@drawable/ic_back"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/toolbar2.xml:        android:src="@drawable/ic_back" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_msg_list.xml:            android:src="@drawable/ic_back" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:            android:src="@drawable/ic_back" />
+--- 
+drawable-xxhdpi/ic_charge_disable --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charge_disable"
+--- 
+drawable-xxhdpi/ic_charge_number --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charge_number"
+--- 
+drawable-xxhdpi/ic_charger --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:                    android:drawableLeft="@drawable/ic_charger"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:                    android:drawableStart="@drawable/ic_charger"
+--- 
+drawable-xxhdpi/ic_charger_nor --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:            app:uncheckedIcon="@drawable/ic_charger_nor"
+--- 
+drawable-xxhdpi/ic_charger_sel --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:            app:checkedIcon="@drawable/ic_charger_sel"
+--- 
+drawable-xxhdpi/ic_charging --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_item_month_card.xml:                  android:drawableStart="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_item_month_card.xml:                  android:drawableLeft="@drawable/ic_charging"/>
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableLeft="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableStart="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableLeft="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableStart="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableLeft="@drawable/ic_charging"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableStart="@drawable/ic_charging"
+--- 
+drawable-xxhdpi/ic_charging_station --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableLeft="@drawable/ic_charging_station"
+--- 
+drawable-xxhdpi/ic_checked is no used
+drawable-xxhdpi/ic_close --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:                .addAction(R.drawable.ic_close, getString(R.string.cancel_download), piCancel);
+drawable-xxhdpi/ic_coin is no used
+drawable-xxhdpi/ic_complete --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_msg_detail.xml:            android:src="@drawable/ic_complete"/>
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_complete;
+drawable-xxhdpi/ic_delete is no used
+drawable-xxhdpi/ic_delete_dis is no used
+drawable-xxhdpi/ic_distance --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:            android:drawableLeft="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:            android:drawableStart="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                android:drawableLeft="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                    android:drawableLeft="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                    android:drawableStart="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableLeft="@drawable/ic_distance"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableStart="@drawable/ic_distance"
+--- 
+drawable-xxhdpi/ic_exit --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_navi_map.xml:        android:src="@drawable/ic_exit"
+--- 
+drawable-xxhdpi/ic_fail --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_fail;
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_fail;
+drawable-xxhdpi/ic_filter --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:            android:src="@drawable/ic_filter" />
+--- 
+drawable-xxhdpi/ic_help --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_help_in_map.xml:        android:drawableTop="@drawable/ic_help"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_help" />
+--- 
+drawable-xxhdpi/ic_his_charg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/ic_his_charg"
+--- 
+drawable-xxhdpi/ic_list --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:            android:src="@drawable/ic_list" />
+--- 
+drawable-xxhdpi/ic_marker_charger_charging --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                .fromResource(R.drawable.ic_marker_charger_charging);
+drawable-xxhdpi/ic_marker_charger_disable --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:                .fromResource(R.drawable.ic_marker_charger_disable);
+drawable-xxhdpi/ic_menu --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:            android:src="@drawable/ic_menu" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:            android:src="@drawable/ic_menu" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:            android:src="@drawable/ic_menu" />
+--- 
+drawable-xxhdpi/ic_message --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:            android:src="@drawable/ic_message"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_main_page.xml:            android:src="@drawable/ic_message"
+--- 
+drawable-xxhdpi/ic_message_open --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/menu_fragment.xml:                android:src="@drawable/ic_message_open" />
+--- 
+drawable-xxhdpi/ic_mine_nor --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:            app:uncheckedIcon="@drawable/ic_mine_nor"
+--- 
+drawable-xxhdpi/ic_mine_sel --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:            app:checkedIcon="@drawable/ic_mine_sel"
+--- 
+drawable-xxhdpi/ic_money --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/ic_money"
+--- 
+drawable-xxhdpi/ic_my_location --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_navi_map.xml:        android:src="@drawable/ic_my_location"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_my_location" />
+--- 
+drawable-xxhdpi/ic_navi --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableLeft="@drawable/ic_navi"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:drawableStart="@drawable/ic_navi"
+--- 
+drawable-xxhdpi/ic_navi_btn --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:        android:background="@drawable/ic_navi_btn" />
+--- 
+drawable-xxhdpi/ic_next --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_charging_history.xml:                   android:src="@drawable/ic_next"/>
+--- 
+drawable-xxhdpi/ic_not_complete --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_not_complete;
+drawable-xxhdpi/ic_pay --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:                right.setCompoundDrawablesWithIntrinsicBounds(getResources().getDrawable(R.drawable.ic_pay), null, null, null);
+drawable-xxhdpi/ic_pcar --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:                right.setCompoundDrawablesWithIntrinsicBounds(getResources().getDrawable(R.drawable.ic_pcar), null, null, null);
+drawable-xxhdpi/ic_phone --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/ic_phone"
+--- 
+drawable-xxhdpi/ic_recharge_success --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_recharge_success;
+drawable-xxhdpi/ic_refresh --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_refresh" />
+--- 
+drawable-xxhdpi/ic_return_top --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:        android:src="@drawable/ic_return_top"
+--- 
+drawable-xxhdpi/ic_rout_exit --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:        android:src="@drawable/ic_rout_exit"
+--- 
+drawable-xxhdpi/ic_samll_adaptor --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableLeft="@drawable/ic_samll_adaptor"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableStart="@drawable/ic_samll_adaptor"
+--- 
+drawable-xxhdpi/ic_search --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:                android:background="@drawable/ic_search"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:                <!--android:background="@drawable/ic_search"-->
+--- 
+drawable-xxhdpi/ic_search1 --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:            right.setCompoundDrawablesWithIntrinsicBounds(getResources().getDrawable(R.drawable.ic_search1), null, null, null);
+drawable-xxhdpi/ic_selected_distance is no used
+drawable-xxhdpi/ic_small_power --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableLeft="@drawable/ic_small_power"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableStart="@drawable/ic_small_power"
+--- 
+drawable-xxhdpi/ic_small_price --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableLeft="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableStart="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableLeft="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableStart="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableLeft="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableStart="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableLeft="@drawable/ic_small_price"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableStart="@drawable/ic_small_price"
+--- 
+drawable-xxhdpi/ic_small_service_fee --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_item_month_card.xml:                  android:drawableStart="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/recycle_item_month_card.xml:                  android:drawableLeft="@drawable/ic_small_service_fee"/>
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableLeft="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/include_site_adaptor_info.xml:                android:drawableStart="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableLeft="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                    android:drawableStart="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableLeft="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:drawableStart="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableLeft="@drawable/ic_small_service_fee"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:                android:drawableStart="@drawable/ic_small_service_fee"
+--- 
+drawable-xxhdpi/ic_system_info --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_system_info;
+drawable-xxhdpi/ic_trade --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/utils/Util.java:                return R.drawable.ic_trade;
+drawable-xxhdpi/ic_unchecked is no used
+drawable-xxhdpi/ic_weixin_nor --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:                            : R.drawable.ic_weixin_nor);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:                            : R.drawable.ic_weixin_nor);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:                    : R.drawable.ic_weixin_nor);
+drawable-xxhdpi/ic_weixin_sel --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:                    : R.drawable.ic_weixin_sel);
+drawable-xxhdpi/ic_zhifubao_nor is no used
+drawable-xxhdpi/ic_zhifubao_sel is no used
+drawable-xxhdpi/ic_zoom_in --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:            android:src="@drawable/ic_zoom_in" />
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:            mZoomIn.setImageResource(R.drawable.ic_zoom_in);
+drawable-xxhdpi/ic_zoom_in_dis --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:            mZoomIn.setImageResource(R.drawable.ic_zoom_in_dis);
+drawable-xxhdpi/ic_zoom_out --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/fragment_chargers_in_map.xml:            android:src="@drawable/ic_zoom_out" />
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:            mZoomOut.setImageResource(R.drawable.ic_zoom_out);
+drawable-xxhdpi/ic_zoom_out_dis --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:            mZoomOut.setImageResource(R.drawable.ic_zoom_out_dis);
+drawable-xxhdpi/icon_location --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/pop_menu_filter.xml:              android:drawableRight="@drawable/icon_location"
+--- 
+drawable-xxhdpi/icon_triangle is no used
+drawable-xxhdpi/iot_logo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_start_up.xml:        android:src="@drawable/iot_logo"/>
+--- 
+drawable-xxhdpi/join --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/join"
+--- 
+drawable-xxhdpi/leave_time --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/leave_time"/>
+--- 
+drawable-xxhdpi/logo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:        android:src="@drawable/logo" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_start_up.xml:        android:src="@drawable/logo"
+--- 
+drawable-xxhdpi/logout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/nav_header_home_page.xml:            android:src="@drawable/logout" />
+--- 
+drawable-xxhdpi/main_bottom_bar_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:        android:background="@drawable/main_bottom_bar_bg"
+--- 
+drawable-xxhdpi/main_charge_bottom --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeProgressView.java:        chargingBottom = res.getDrawable(R.drawable.main_charge_bottom);
+drawable-xxhdpi/main_charge_middle --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeProgressView.java:        chargingMiddle = res.getDrawable(R.drawable.main_charge_middle);
+drawable-xxhdpi/main_charge_no_start --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeProgressView.java:        notStartDrawable = res.getDrawable(R.drawable.main_charge_no_start);
+drawable-xxhdpi/main_charge_top --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeProgressView.java:        chargingTop = res.getDrawable(R.drawable.main_charge_top);
+drawable-xxhdpi/map_end --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/baiduoverlay/BikingRouteOverlay.java:        return BitmapDescriptorFactory.fromResource(R.drawable.map_end);
+drawable-xxhdpi/map_start --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/baiduoverlay/BikingRouteOverlay.java:        return BitmapDescriptorFactory.fromResource(R.drawable.map_start);
+drawable-xxhdpi/max_time --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/max_time"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableStart="@drawable/max_time"/>
+--- 
+drawable-xxhdpi/month_card --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_my_account.xml:               android:src="@drawable/month_card"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MyAccountActivity.java:            month_card_iv.setImageDrawable(getResources().getDrawable(R.drawable.month_card));
+drawable-xxhdpi/month_card_using --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MyAccountActivity.java:            month_card_iv.setImageDrawable(getResources().getDrawable(R.drawable.month_card_using));
+drawable-xxhdpi/month_style --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/month_style"/>
+--- 
+drawable-xxhdpi/monthly --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/pop_menu_filter.xml:              android:drawableRight="@drawable/monthly"
+--- 
+drawable-xxhdpi/more_icon --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/dialog_popup_station_info.xml:                android:src="@drawable/more_icon"
+--- 
+drawable-xxhdpi/no_photo --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/popup_station_info.xml:                android:src="@drawable/no_photo" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:            android:src="@drawable/no_photo" />
+--- 
+drawable-xxhdpi/no_signal_1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_no_signal.xml:            android:drawableTop="@drawable/no_signal_1"
+--- 
+drawable-xxhdpi/no_signal_2 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_no_signal.xml:            android:drawableTop="@drawable/no_signal_2"
+--- 
+drawable-xxhdpi/no_signal_3 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_no_signal.xml:            android:drawableTop="@drawable/no_signal_3"
+--- 
+drawable-xxhdpi/password is no used
+drawable-xxhdpi/pay_recharge1 is no used
+drawable-xxhdpi/pay_recharge2 is no used
+drawable-xxhdpi/pay_record1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment.xml:            android:drawableTop="@drawable/pay_record1"
+--- 
+drawable-xxhdpi/pay_record2 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment.xml:            android:drawableTop="@drawable/pay_record2"
+--- 
+drawable-xxhdpi/purchase_month --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_rechargemc.xml:                      android:drawableLeft="@drawable/purchase_month"/>
+--- 
+drawable-xxhdpi/recharge_result_failed --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:        mIvResult.setImageResource(R.drawable.recharge_result_failed);
+drawable-xxhdpi/recharge_result_info_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_wxpay_entry.xml:        android:background="@drawable/recharge_result_info_bg"
+--- 
+drawable-xxhdpi/recharge_result_successful --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_wxpay_entry.xml:        android:src="@drawable/recharge_result_successful"/>
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:                        mIvResult.setImageResource(R.drawable.recharge_result_successful);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:        mIvResult.setImageResource(R.drawable.recharge_result_successful);
+drawable-xxhdpi/recommend_bg1 --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/charge_station_item_layout.xml:    android:background="@drawable/recommend_bg1"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeStationListAdapter.java:            mContainer.setBackgroundResource(R.drawable.recommend_bg1);
+drawable-xxhdpi/recommend_bg2 --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeStationListAdapter.java:                    .setBackgroundResource(R.drawable.recommend_bg2);
+drawable-xxhdpi/scan_line --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:                android:background="@drawable/scan_line"
+--- 
+drawable-xxhdpi/scan_logo_small --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:                android:src="@drawable/scan_logo_small" />
+--- 
+drawable-xxhdpi/scan_mask --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/scan_mask"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/scan_mask"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/scan_mask"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:background="@drawable/scan_mask"
+--- 
+drawable-xxhdpi/star_scan_bg --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/content_home_page.xml:        android:background="@drawable/star_scan_bg"
+--- 
+drawable-xxhdpi/turn_off_light --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_qr_scan.xml:            android:src="@drawable/turn_off_light" />
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/CaptureActivity.java:            mIvTurnOnLight.setImageResource(R.drawable.turn_off_light);
+drawable-xxhdpi/turn_on_light --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/CaptureActivity.java:            mIvTurnOnLight.setImageResource(R.drawable.turn_on_light);
+drawable-xxhdpi/unchecked --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                       android:src="@drawable/unchecked"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                wx_select.setImageResource(R.drawable.unchecked);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:                zfb_select.setImageResource(R.drawable.unchecked);
+drawable-xxhdpi/username --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_login.xml:                android:src="@drawable/username" />
+--- 
+drawable-xxhdpi/wechatpay --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_recharger.xml:                      android:drawableLeft="@drawable/wechatpay"
+--- 
+drawable-xxxhdpi/ic_action_reload --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:        mBuilder.addAction(R.drawable.ic_action_reload,
+drawable-xxxhdpi/ic_close --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/update/DownloadService.java:                .addAction(R.drawable.ic_close, getString(R.string.cancel_download), piCancel);
+drawable-xxxhdpi/month_card --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_my_account.xml:               android:src="@drawable/month_card"
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MyAccountActivity.java:            month_card_iv.setImageDrawable(getResources().getDrawable(R.drawable.month_card));
+activity_about.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/AboutActivity.java:        setContentView(R.layout.activity_about);
+activity_base.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/base/ToolbarBaseActivity.java:        super.setContentView(R.layout.activity_base);
+activity_charge.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:        setContentView(R.layout.activity_charge);
+activity_charge_cost.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeCostActivity.java:        setContentView(R.layout.activity_charge_cost);
+activity_chargers_in_list.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/chargerlist/ChargersInListActivity.java:        setContentView(R.layout.activity_chargers_in_list);
+activity_choose_adaptors_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PlugActivity.java:        setContentView(R.layout.activity_choose_adaptors_info);
+activity_edit_user_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/EditUserInfoActivity.java:        setContentView(R.layout.activity_edit_user_info);
+activity_forget_password.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/authentication/ForgetPasswordActivity.java:        setContentView(R.layout.activity_forget_password);
+activity_guide.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/GuideActivity.java:        setContentView(R.layout.activity_guide);
+activity_home_page.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/HomePageActivity.java:        setContentView(R.layout.activity_home_page);
+activity_how2_charge.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/How2ChargeActivity.java:        setContentView(R.layout.activity_how2_charge);
+activity_how2_find_station.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/How2FindStationActivity.java:        setContentView(R.layout.activity_how2_find_station);
+activity_join_us.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/JoinUsActivity.java:        setContentView(R.layout.activity_join_us);
+activity_login.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/LoginActivity.java:        setContentView(R.layout.activity_login);
+activity_modify_phone.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ModifyPhoneActivity.java:        setContentView(R.layout.activity_modify_phone);
+activity_monthly.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/monthly/MonthlyActivity.java:        setContentView(R.layout.activity_monthly);
+activity_msg_detail.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MsgDetailActivity.java:        setContentView(R.layout.activity_msg_detail);
+activity_msg_list.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MsgListActivity.java:        setContentView(R.layout.activity_msg_list);
+activity_my_account.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/MyAccountActivity.java:        setContentView(R.layout.activity_my_account);
+activity_navi_map.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/NaviMapActivity.java:        setContentView(R.layout.activity_navi_map);
+activity_no_signal.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/NoSignalActivity.java:        setContentView(R.layout.activity_no_signal);
+activity_payment.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PaymentActivity.java:        setContentView(R.layout.activity_payment);
+activity_payment_detail.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PaymentDetailActivity.java:        setContentView(R.layout.activity_payment_detail);
+activity_protocol.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ProtocolActivity.java:        setContentView(R.layout.activity_protocol);
+activity_qr_scan.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/CaptureActivity.java:        setContentView(R.layout.activity_qr_scan);
+activity_recharge_history.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargingHistoryActivity.java:        setContentView(R.layout.activity_recharge_history);
+activity_rechargemc.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerMCActivity.java:        setContentView(R.layout.activity_rechargemc);
+activity_recharger.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RechargerActivity.java:        setContentView(R.layout.activity_recharger);
+activity_regist_captcha.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RegistCaptchaActivity.java:        setContentView(R.layout.activity_regist_captcha);
+activity_regist_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RegistInfoActivity.java:        setContentView(R.layout.activity_regist_info);
+activity_register.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/RegisterActivity.java:        setContentView(R.layout.activity_register);
+activity_start_up.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/StartUpActivity.java:        setContentView(R.layout.activity_start_up);
+activity_trade_out_detail.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/TradeOutDetailActivity.java:        View rootView = getLayoutInflater().inflate(R.layout.activity_trade_out_detail, null, false);
+activity_user_setting.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/UserSettingActivity.java:        setContentView(R.layout.activity_user_setting);
+activity_verify_user_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/VerifyUserInfoActivity.java:        setContentView(R.layout.activity_verify_user_info);
+activity_wxpay_entry.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/wxapi/WXPayEntryActivity.java:        setContentView(R.layout.activity_wxpay_entry);
+activtiy_order_explain.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/OrderExplainActivtiy.java:        setContentView(R.layout.activtiy_order_explain);
+charge_recycler_footer.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:            View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.charge_recycler_footer, parent,
+charge_recycler_header.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeActivity.java:            View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.charge_recycler_header, parent,
+charge_station_item_layout.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeStationListAdapter.java:                .inflate(R.layout.charge_station_item_layout, parent,
+content_home_page.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_home_page.xml:    <include layout="@layout/content_home_page" />
+--- 
+dialog_order_pay.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/OrderPayDialog.java:        ContentView = inflater.inflate(R.layout.dialog_order_pay, container, false);
+dialog_popup_help_in_map.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/HelpPopupDialogFragment.java:        View view = inflater.inflate(R.layout.dialog_popup_help_in_map, container, false);
+dialog_popup_pre_recharg.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/PreRechargeDilogFragment.java:        View view = inflater.inflate(R.layout.dialog_popup_pre_recharg, container, false);
+dialog_popup_station_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/StationPopupDialogFragment.java:        View view = inflater.inflate(R.layout.dialog_popup_station_info, container, false);
+dialog_stop_charge.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeStatusFrag.java:        window.setContentView(R.layout.dialog_stop_charge);
+edit_toolbar.layout is noused
+filter_item.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/AutoCompleteTextAdapter.java:            convertView = View.inflate(parent.getContext(), R.layout.filter_item, null);
+fragment_charge_status.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargeStatusFrag.java:        final View view = inflater.inflate(R.layout.fragment_charge_status, container, false);
+fragment_chargers_in_map.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargersInMapFragment.java:        final View mainView = inflater.inflate(R.layout.fragment_chargers_in_map, container, false);
+fragment_first_step.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/authentication/FirstStepFragment.java:        final View view = inflater.inflate(R.layout.fragment_first_step, container, false);
+fragment_main_page.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/HomePageFragment.java:        final View view = inflater.inflate(R.layout.fragment_main_page, container, false);
+fragment_second_step.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/authentication/SecondStepFragment.java:        final View view = inflater.inflate(R.layout.fragment_second_step, container, false);
+header_recharger.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_charge.xml:    <include layout="@layout/header_recharger"/>
+--- 
+include_account_header.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment_detail.xml:    <include layout="@layout/include_account_header" />
+--- 
+include_account_header_no_recharge.layout is noused
+include_site_adaptor_info.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_choose_adaptors_info.xml:        layout="@layout/include_site_adaptor_info"/>
+--- 
+manual_selected_time_dialog.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ManualSelectedTimeDialogFragment.java:        View view = inflater.inflate(R.layout.manual_selected_time_dialog, container, false);
+menu_fragment.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/OrderStatusFragment.java:        final View view = inflater.inflate(R.layout.menu_fragment, container, false);
+msg_item_layout.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/MsgListAdapter.java:        return new MyHolder(inflater.inflate(R.layout.msg_item_layout, parent, false));
+my_account_no_more_record.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PaymentDetailActivity.java:        adapter.setNoMore(R.layout.my_account_no_more_record);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargingHistoryActivity.java:        adapter.setNoMore(R.layout.my_account_no_more_record);
+my_account_no_record.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment_detail.xml:        app:layout_empty="@layout/my_account_no_record"
+--- 
+nav_header_home_page.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_home_page.xml:        app:headerLayout="@layout/nav_header_home_page"
+--- 
+pop_menu_filter.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/FilterPopView.java:        View popup = LayoutInflater.from(mContext).inflate(R.layout.pop_menu_filter, null);
+pop_menu_filter_item.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/DistanceAdapter.java:        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.pop_menu_filter_item, parent,
+popup_station_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/StationPopupWindow.java:        mainView = inflater.inflate(R.layout.popup_station_info, null);
+record_list_item_layout.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/CostRecordsAdapter.java:                R.layout.record_list_item_layout,
+recycle_charging_history.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargingHistoryAdapter.java:                R.layout.recycle_charging_history,
+recycle_item_month_card.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/MonthCardAdapter.java:                R.layout.recycle_item_month_card,
+recycle_purchase.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/PurchaseMonthCardAdapter.java:        View view = LayoutInflater.from(context).inflate(R.layout.recycle_purchase, parent, false);
+recycler_charge_history.layout is noused
+recycler_item_empty.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_choose_adaptors_info.xml:        app:layout_empty="@layout/recycler_item_empty"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:        app:layout_empty="@layout/recycler_item_empty"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/pop_menu_filter.xml:        app:layout_empty="@layout/recycler_item_empty"
+--- 
+recycler_item_error.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment_detail.xml:        app:layout_error="@layout/recycler_item_error"/>
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PaymentDetailActivity.java:        adapter.setError(R.layout.recycler_item_error,
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/chargerlist/ChargersInListActivity.java:        mChargeStationListAdapter.setError(R.layout.recycler_item_error,
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PlugActivity.java:                .setError(R.layout.recycler_item_error, new RecyclerArrayAdapter.OnErrorListener() {
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargingHistoryActivity.java:        adapter.setError(R.layout.recycler_item_error,
+recycler_item_more.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/PaymentDetailActivity.java:        adapter.setMore(R.layout.recycler_item_more, this);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/chargerlist/ChargersInListActivity.java:        mChargeStationListAdapter.setMore(R.layout.recycler_item_more, this);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/ChargingHistoryActivity.java:        adapter.setMore(R.layout.recycler_item_more, this);
+recycler_item_nomore.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/ui/chargerlist/ChargersInListActivity.java:        mChargeStationListAdapter.setNoMore(R.layout.recycler_item_nomore);
+recycler_item_progress.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_choose_adaptors_info.xml:        app:layout_progress="@layout/recycler_item_progress">
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_payment_detail.xml:        app:layout_progress="@layout/recycler_item_progress"
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_chargers_in_list.xml:        app:layout_progress="@layout/recycler_item_progress" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/pop_menu_filter.xml:        app:layout_progress="@layout/recycler_item_progress" />
+--- 
+toolbar.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_base.xml:        layout="@layout/toolbar" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_user_setting.xml:        layout="@layout/toolbar" />
+/Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_trade_out_detail.xml:            layout="@layout/toolbar" />
+--- 
+toolbar2.layout --- /Users/sever1/workplace/android_app/Charge/app//src/main/res/layout/activity_msg_detail.xml:        layout="@layout/toolbar2"/>
+--- 
+view_fee_chooser.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/ChargeTimeAdapter.java:        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.view_fee_chooser, parent, false);
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ChargeModeRadioButton.java:        LayoutInflater.from(context).inflate(R.layout.view_fee_chooser, this);
+view_plug_info.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/adapter/StationPlugAdapter.java:        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.view_plug_info, parent,
+/Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/PlugInfoButton.java:        LayoutInflater.from(context).inflate(R.layout.view_plug_info, this);
+view_recharge_amount_button.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeAmountRadioButton.java:        LayoutInflater.from(context).inflate(R.layout.view_recharge_amount_button, this);
+view_recharge_type_button.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/RechargeTypeRadioButton.java:        LayoutInflater.from(context).inflate(R.layout.view_recharge_type_button, this);
+window_confirm_pay.layout --- 
+--- /Users/sever1/workplace/android_app/Charge/app//src/main/java/com/chinamobile/iot/easiercharger/view/ConfirmChargeDialogFragment.java:        View view = inflater.inflate(R.layout.window_confirm_pay, container, false);
