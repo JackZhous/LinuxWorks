@@ -21,7 +21,7 @@ fi
 projPath="$1/src/main"
 javaPath="$projPath/java"
 resPath="$projPath/res"
-layoutPath="$projPath/res/layout"
+layoutPath="$projPath/res"
 resItems=`ls -1 $projPath/res | grep '^d\|^m\|^l'`
 
 #开始检索资源
