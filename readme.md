@@ -853,3 +853,42 @@ __查看内核版本号__
 	/sbin/init /etc/inittab
 	upstart(ubuntu) 并行启动
 	systemd
+
+### 内核
+ 核心： /boot/vmlinux-version   版本号x.y.z  第二位为偶数表示稳定版（2.4以前） 之后的看第三位会同时维护稳定版和测试版(rc)
+ 内核模块：/lib/moudles/version
+ 内核设计：
+ 	单内核
+	多内核
+装载模块：
+	insmod/modprobe
+内核下载地址：
+	www.kernel.org
+用户空间监控、管理内核的方式：
+	/proc  /sys
+	/proc下只有sys目录可读写的
+	/sys下某些可读写
+
+### 设定内核参数的方法
+	立即生效不会永久生效
+	echo VALUE > /proc/sys/TO/SOMEFILE
+	sysctl -w kernel.hostname="localhost.localdomain"
+	永久生效，但是无法立即生效
+	编辑配置文件
+	/etc/sysctl.conf
+	sysctl -a 显示内核所有可以编辑的参数
+	sysctl -p修改参数
+### 内核模块
+	lsmod显示内核所有的模块
+	modprobe MODULE 装载模块
+	modprobe -r MODULE 卸载模块
+
+	modeinfo 查看模块详细信息
+	insmod 模块路径 装载模块
+	rmmod 模块名称  卸载模块
+
+### 编译内核
+内核中除核心模块外，大多数功能有三种选择
+1. 不使用该模块
+2. 编译成内核模块
+3. 编译进内核模块
