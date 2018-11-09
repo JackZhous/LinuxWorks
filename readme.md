@@ -36,7 +36,8 @@ cat /proc/filesystems  //查看系统支持的文件系统格式
 __分区命令：__
 	fdisk -l /dev/sdX 查看分区信息，其他功能参考命令帮助
 	fsck 检查修复磁盘
-
+	fidsk /dev/sdX 进入分区应用程序，对X盘进行分区
+	完成后可使用partprobe /dev/sdX 进行同步
 ---
 ## 磁盘看
 	df 整个磁盘情况
@@ -887,8 +888,31 @@ __查看内核版本号__
 	insmod 模块路径 装载模块
 	rmmod 模块名称  卸载模块
 
-### 编译内核
+### 编译内核(内核模块版本必须要和内核版本一致)
 内核中除核心模块外，大多数功能有三种选择
 1. 不使用该模块
 2. 编译成内核模块
 3. 编译进内核模块
+
+#### 手动编译内核
+
+图形界面编译：
+	make gconfig  ---  Gnome桌面环境
+	make kconfig  ---  KDE桌面环境使用
+
+	make menuconfig --- 文本界面窗口（在源码路径下）
+	__目前已经被make nconfig替代__
+	配置好后会在当前目录生成.config文件，一般建议先把/boot/configxxx拷贝现成的配置文件过来，在进行修改
+		make 
+		make modules_install 
+		make install
+	
+	//使用screen可以防止編譯make內核模塊突然中斷
+	screen多窗口命令，打开新屏幕，可以来回切换
+	screen -ls 查看打开的屏幕
+	screen 打开新屏幕
+	screen 数字，切回screen
+	crtl +a,d 切回去 //注意，是先按crt+a，然後在按d
+
+	make clean 清除上一次编译的结果
+	make mrproper 备份配置文件
