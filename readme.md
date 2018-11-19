@@ -852,6 +852,7 @@ __查看内核版本号__
 3. 以只读方式挂着根文件系统
 4. 装载第一个进程init(pid:1)
 	/sbin/init /etc/inittab
+		
 	upstart(ubuntu) 并行启动
 	systemd
 
@@ -916,3 +917,9 @@ __查看内核版本号__
 
 	make clean 清除上一次编译的结果
 	make mrproper 备份配置文件
+
+### 内核初始化
+硬件检测
+驱动装载
+挂载根文件系统(rootfs)
+启动用户空间第一个进程init
